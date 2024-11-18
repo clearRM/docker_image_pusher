@@ -1,2 +1,1 @@
-odoo:16
---platform=test_odoo16
+odoo:17
