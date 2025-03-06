@@ -1,1 +1,1 @@
-bitnami/postgresql:17
+langgenius/dify-api:0.12.1
