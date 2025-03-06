@@ -1,1 +1,1 @@
-odoo:17.0-20250218
+bitnami/postgresql:17
