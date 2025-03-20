@@ -1,1 +1,1 @@
-xprobe/xinference:nightly-main-cpu
+python:3.10-slim
