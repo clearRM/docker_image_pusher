@@ -1,1 +1,1 @@
-rockchin/langbot:latest
+langgenius/dify-api:1.3.0
