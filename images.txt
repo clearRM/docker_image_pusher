@@ -1,1 +1,1 @@
-odoo:16.0
+xiaozhi696/undetected_chromedriver:latest
