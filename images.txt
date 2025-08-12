@@ -1,1 +1,1 @@
-xiaozhi696/undetected_chromedriver:latest
+odoo:18.0-20250606
